@@ -10,8 +10,7 @@ Overview
     * - license
       - | |license|
 
-.. |license| image:: https://img.shields.io/cocoapods/l/AFNetworking.svg
-    :alt: CocoaPods
+.. |license| image:: [![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl
 
 .. end-badges
 
