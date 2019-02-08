@@ -10,6 +10,7 @@ german_words
 ============
 
 A list of German words based on https://github.com/michmech/lemmatization-lists
+
 The lemma/token pairs have been broken up, only words and partially their declined
 or conjugated forms remain, seperated by line breaks.
 
