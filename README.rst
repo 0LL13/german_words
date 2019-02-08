@@ -10,7 +10,8 @@ Overview
     * - license
       - | |license|
 
-.. |license| image::https://opendatacommons.org/licenses/odbl
+.. |license| image:: https://opendatacommons.org/licenses/odbl
+    :target: https://img.shields.io/badge/License-ODbL-brightgreen.svg
 
 .. end-badges
 
