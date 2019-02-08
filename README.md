@@ -1,15 +1,8 @@
-========
 Overview
 ========
 
-.. start-badges
-
-.. list-table::
-    :stub-columns: 1
 
 [![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
-
-.. end-badges
 
 
 
